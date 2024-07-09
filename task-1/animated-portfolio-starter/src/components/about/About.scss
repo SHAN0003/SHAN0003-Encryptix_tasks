@@ -1,0 +1,17 @@
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+
+    p{
+        font-size: 70px;
+        font-weight: 150;
+        text-align: center;
+    }
+
+    b{
+        color: orange;
+    }
+}
